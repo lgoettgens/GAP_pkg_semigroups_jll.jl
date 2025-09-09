@@ -1,6 +1,6 @@
 name = "GAP_pkg_semigroups_jll"
 uuid = "6263fdc2-b0d3-58ac-9933-e1550bf6ed81"
-version = "500.50400.0+0"
+version = "501.50400.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

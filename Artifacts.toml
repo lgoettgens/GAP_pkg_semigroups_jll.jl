@@ -5,7 +5,7 @@ os = "macos"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "5aff03fa40cdce4e6e50b1b9b14223b84630e95d3d9de16d52c18513bec23eb0"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "743340963da8efb172b144bc42054511ea394a17c9ba4e83207d4d46167cffa4"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.aarch64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -25,7 +25,7 @@ os = "linux"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "3cf46944c8fcca5f509957b8aaf619ed4fd542e1a9354ad9849abff98e80bfdc"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -35,7 +35,7 @@ os = "linux"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "37d124e77e6f8014c391356d1f3348a784f4449d69e8b4fcdcbf31ec39ad85d7"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.aarch64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.aarch64-linux-musl-cxx03.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -45,7 +45,7 @@ os = "linux"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "44f2cd3ed0d62c79d38524538e4e91a1acb5ed0d02b9fb20191aa7764acd5bd0"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.aarch64-linux-musl-cxx11.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -55,7 +55,7 @@ os = "linux"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "6f53b750213da83f0023e6e1ee36d75eed9f206ff37563a50817a86fde3bbfe6"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -65,7 +65,7 @@ os = "linux"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "5cdaba23ad862837aabe6366dddb4bafb5c8471d5421d5b7874552e319ceb0f1"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "x86_64"
 git-tree-sha1 = "da6d18d9bd67363d441ae7a3174a3e004018a3be"
@@ -73,7 +73,7 @@ os = "macos"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "b48114338454501acfa8793fdd4a0aab65c946b4cd86cfb8485b0cc5a6960bfe"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -83,7 +83,7 @@ os = "linux"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "1d988d43526c04342c42d2261dc235ffc549dfafd7a35aef1925ef3d6eb6106d"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.x86_64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -93,7 +93,7 @@ os = "linux"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "a23a24214275e2ad15060d1ff01752fda2959d10dcd1b5ceab8d1b48ccee2048"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -103,7 +103,7 @@ os = "linux"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "aafc5e8f00cb48c979fb0d181a036008bfec6264bc1cff356a315ce1b6904411"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.x86_64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.x86_64-linux-musl-cxx03.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -113,7 +113,7 @@ os = "linux"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "35569a8a9a1f2a91a72d53c0754d4e28a81256ea688a4fe764f63ae6ee543dbf"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.x86_64-linux-musl-cxx11.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "x86_64"
 git-tree-sha1 = "22123bf428189c0492ee0834059397015bcaa39d"
@@ -121,4 +121,4 @@ os = "freebsd"
 
     [[GAP_pkg_semigroups.download]]
     sha256 = "0a660ebc1d0d93c01447b2218103cc13ba1e1de1efd45b1a4c94f3dea111c7e7"
-    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v500.50400.0+0/GAP_pkg_semigroups.v500.50400.0.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.50400.0+0/GAP_pkg_semigroups.v501.50400.0.x86_64-unknown-freebsd.tar.gz"
